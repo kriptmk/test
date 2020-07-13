@@ -1,0 +1,27 @@
+*{
+	box-sizing: border-box;
+}
+
+html, body {
+	margin: 0;
+	font-size: 12px;
+}
+.header {
+	background: #ffdead;
+	height: 220px;
+	width: 100%;
+	display: flex;
+}
+.header_h1 {
+	padding-top: 50px;
+	padding-left: 550px;
+	align-items: center;
+}
+.ul {
+	padding: 0;
+	margin: 0;
+	border: 2px, solid #ffdead
+}
+.div_bottom {
+
+}
